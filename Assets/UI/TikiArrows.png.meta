@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 11e83ac2d9b09724ca3cedc9561d6e78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5937510744494910812
+    second: TikiArrows_0
+  - first:
+      213: -661791191442748418
+    second: TikiArrows_1
+  - first:
+      213: -8161277217163569789
+    second: TikiArrows_2
+  - first:
+      213: 8325808547289419465
+    second: TikiArrows_3
+  - first:
+      213: -5550072067769823159
+    second: TikiArrows_4
+  - first:
+      213: -3064066723495395889
+    second: TikiArrows_5
+  - first:
+      213: -751695266434073496
+    second: TikiArrows_6
+  - first:
+      213: -3101651994758871606
+    second: TikiArrows_7
+  - first:
+      213: -5990850784780693151
+    second: TikiArrows_8
+  - first:
+      213: -4701683221113466870
+    second: TikiArrows_9
+  - first:
+      213: -3702411159593655618
+    second: TikiArrows_10
+  - first:
+      213: 2342766237219871884
+    second: TikiArrows_11
+  - first:
+      213: -4446003052384270424
+    second: TikiArrows_12
+  - first:
+      213: 7926613393109487053
+    second: TikiArrows_13
+  - first:
+      213: 1418624372845371321
+    second: TikiArrows_14
+  - first:
+      213: -2186074044180302869
+    second: TikiArrows_15
+  - first:
+      213: -2158920840122618952
+    second: TikiArrows_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TikiArrows_0
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 468
+        width: 127
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d2fa75096466250800000000000000
+      internalID: 5937510744494910812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_1
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 777
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb829eea68d0d6f0800000000000000
+      internalID: -661791191442748418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_2
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 775
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3851a7d7c915dbe80800000000000000
+      internalID: -8161277217163569789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_3
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 844
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cec81103c63b8370800000000000000
+      internalID: 8325808547289419465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_4
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 778
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94013c22cde2af2b0800000000000000
+      internalID: -5550072067769823159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_5
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 531
+        width: 116
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd36f19c8f3a75d0800000000000000
+      internalID: -3064066723495395889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 510
+        width: 65
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cbad843217195f0800000000000000
+      internalID: -751695266434073496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 783
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5048ba1f7b4f4d0800000000000000
+      internalID: -3101651994758871606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_8
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 746
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161d6ceb3f83cdca0800000000000000
+      internalID: -5990850784780693151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 56
+        width: 64
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a001e1f550440ceb0800000000000000
+      internalID: -4701683221113466870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 25
+        width: 127
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb26af3aaa46e9cc0800000000000000
+      internalID: -3702411159593655618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 345
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cd441fa7d238020800000000000000
+      internalID: 2342766237219871884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_12
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 307
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a74550a7cf9c42c0800000000000000
+      internalID: -4446003052384270424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 312
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd052052ecf00e60800000000000000
+      internalID: 7926613393109487053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_14
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 313
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfd825d957ffa310800000000000000
+      internalID: 1418624372845371321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_15
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 62
+        width: 116
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be37ee73d3189a1e0800000000000000
+      internalID: -2186074044180302869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TikiArrows_16
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 307
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbad423fe8f902e0800000000000000
+      internalID: -2158920840122618952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: edbf02e70f08fc040af5a764bd076aec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TikiArrows_11: 2342766237219871884
+      TikiArrows_1: -661791191442748418
+      TikiArrows_6: -751695266434073496
+      TikiArrows_8: -5990850784780693151
+      TikiArrows_7: -3101651994758871606
+      TikiArrows_14: 1418624372845371321
+      TikiArrows_16: -2158920840122618952
+      TikiArrows_12: -4446003052384270424
+      TikiArrows_2: -8161277217163569789
+      TikiArrows_10: -3702411159593655618
+      TikiArrows_9: -4701683221113466870
+      TikiArrows_3: 8325808547289419465
+      TikiArrows_13: 7926613393109487053
+      TikiArrows_15: -2186074044180302869
+      TikiArrows_5: -3064066723495395889
+      TikiArrows_0: 5937510744494910812
+      TikiArrows_4: -5550072067769823159
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

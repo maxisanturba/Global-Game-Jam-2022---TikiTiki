@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3583fad822e3e7145b5a41926bd291ca
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 20
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tiki Tropic
+  fontNames:
+  - Tiki Tropic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f43a54d9620753042a4dc38a0e17a2f1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

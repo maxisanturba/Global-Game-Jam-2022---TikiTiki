@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 627c7cecba16fe4468d2cc355220c3fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4920087571301560175
+    second: MDF y flechas (2)_0
+  - first:
+      213: 8403355600271024499
+    second: MDF y flechas (2)_1
+  - first:
+      213: -1424223509321369608
+    second: MDF y flechas (2)_2
+  - first:
+      213: -856044409776783384
+    second: MDF y flechas (2)_3
+  - first:
+      213: -5461502723679480977
+    second: MDF y flechas (2)_4
+  - first:
+      213: -978069284017617640
+    second: MDF y flechas (2)_5
+  - first:
+      213: 2537893947674914692
+    second: MDF y flechas (2)_6
+  - first:
+      213: -3229770445524757710
+    second: MDF y flechas (2)_7
+  - first:
+      213: 6719416461146017922
+    second: MDF y flechas (2)_8
+  - first:
+      213: 7180168151310096373
+    second: MDF y flechas (2)_9
+  - first:
+      213: 5347484324788002883
+    second: MDF y flechas (2)_10
+  - first:
+      213: 7754889379734910894
+    second: MDF y flechas (2)_11
+  - first:
+      213: 4583633724061487095
+    second: MDF y flechas (2)_12
+  - first:
+      213: -8545504389053678738
+    second: MDF y flechas (2)_13
+  - first:
+      213: -2453186183130799934
+    second: MDF y flechas (2)_14
+  - first:
+      213: 2972989462472478493
+    second: MDF y flechas (2)_15
+  - first:
+      213: -9218568374429914335
+    second: MDF y flechas (2)_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MDF y flechas (2)_0
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 937
+        width: 406
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19091c0fb6658bbb0800000000000000
+      internalID: -4920087571301560175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 759
+        width: 406
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371a1734567be9470800000000000000
+      internalID: 8403355600271024499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_2
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 794
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7b32e93442c3ce0800000000000000
+      internalID: -1424223509321369608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_3
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 792
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efbb431528be14f0800000000000000
+      internalID: -856044409776783384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_4
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 861
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6391478538d434b0800000000000000
+      internalID: -5461502723679480977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_5
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 795
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815c8601b233d62f0800000000000000
+      internalID: -978069284017617640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_6
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 548
+        width: 116
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fe6cc5919683320800000000000000
+      internalID: 2537893947674914692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 590
+        width: 328
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233117054ec8d23d0800000000000000
+      internalID: -3229770445524757710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 358
+        width: 395
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2805580aba9204d50800000000000000
+      internalID: 6719416461146017922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 475
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7596634e415a360800000000000000
+      internalID: 7180168151310096373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_10
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 324
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34065f449a4163a40800000000000000
+      internalID: 5347484324788002883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_11
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 329
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea77c8fbdc6ee9b60800000000000000
+      internalID: 7754889379734910894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_12
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 330
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff8f2f36965c9f30800000000000000
+      internalID: 4583633724061487095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_13
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 79
+        width: 116
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bf9efb805486980800000000000000
+      internalID: -8545504389053678738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 195
+        width: 395
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0a79af92884fdd0800000000000000
+      internalID: -2453186183130799934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 312
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fc6af1a2e224920800000000000000
+      internalID: 2972989462472478493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDF y flechas (2)_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 79
+        width: 332
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b6470d7e0111080800000000000000
+      internalID: -9218568374429914335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b5c5a3af2877bd44aa8cc4769f18119d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MDF y flechas (2)_12: 4583633724061487095
+      MDF y flechas (2)_7: -3229770445524757710
+      MDF y flechas (2)_0: -4920087571301560175
+      MDF y flechas (2)_1: 8403355600271024499
+      MDF y flechas (2)_5: -978069284017617640
+      MDF y flechas (2)_14: -2453186183130799934
+      MDF y flechas (2)_10: 5347484324788002883
+      MDF y flechas (2)_15: 2972989462472478493
+      MDF y flechas (2)_11: 7754889379734910894
+      MDF y flechas (2)_16: -9218568374429914335
+      MDF y flechas (2)_9: 7180168151310096373
+      MDF y flechas (2)_6: 2537893947674914692
+      MDF y flechas (2)_8: 6719416461146017922
+      MDF y flechas (2)_13: -8545504389053678738
+      MDF y flechas (2)_2: -1424223509321369608
+      MDF y flechas (2)_3: -856044409776783384
+      MDF y flechas (2)_4: -5461502723679480977
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
