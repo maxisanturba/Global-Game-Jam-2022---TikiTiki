@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using GameManager;
+using System;
 
 public class GameController : MonoBehaviour
 {
@@ -19,9 +20,12 @@ public class GameController : MonoBehaviour
     public float totalTime;
     private int totalTimeInt;
     public Button reMatchBut;
-    public Button mainMenuBut;
+    public Button mainMenuBut;    
+    public Button reMatchPauseBut;
+    public Button mainMenuPauseBut;
 
     public GameObject gameOverPanel;
+    public GameObject pausePanel;
 
     public AudioSource audioSource;
     public AudioClip ambientClip;
@@ -32,10 +36,27 @@ public class GameController : MonoBehaviour
 
         reMatchBut.onClick.AddListener(() => GameSettings.ChangeScene(1));
         mainMenuBut.onClick.AddListener(() => GameSettings.ChangeScene(0));
+        
+        reMatchPauseBut.onClick.AddListener(delegate
+        {
+            GameSettings.ChangeScene(1);
+            GameSettings.gameIsPaused = false;
+            GameSettings.PauseGame();
+        });
+        mainMenuPauseBut.onClick.AddListener(delegate
+        {
+            GameSettings.ChangeScene(0);
+            GameSettings.gameIsPaused = false;
+            GameSettings.PauseGame();
+        });
 
         gameOver = false;
-        totalTimeInt = ((int)totalTime);
+        totalTimeInt = (int)totalTime;
         StartCoroutine(TimeToWin());
+    }
+    private void Update()
+    {
+        PauseControl();
     }
     private void FixedUpdate()
     {
@@ -74,6 +95,15 @@ public class GameController : MonoBehaviour
             totalTimeInt = ((int)totalTime);
             timeLeftText.text = totalTimeInt.ToString();
             timeLeftText2.text = totalTimeInt.ToString();
+        }
+    }
+    private void PauseControl()
+    {
+        if (Input.GetButtonDown("Cancel"))
+        {
+            pausePanel.active = !pausePanel.active;
+            GameSettings.gameIsPaused = !GameSettings.gameIsPaused;
+            GameSettings.PauseGame();
         }
     }
 }

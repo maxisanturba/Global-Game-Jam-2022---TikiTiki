@@ -8,6 +8,7 @@ namespace GameManager
     public class GameSettings
     {
         public static float generalVolume = 1;
+        public static bool gameIsPaused;
         public static void ChangeVolume(float value)
         {
             foreach (AudioSource audioSource in GameObject.FindObjectsOfType<AudioSource>())
@@ -28,6 +29,19 @@ namespace GameManager
         public static void CloseGame()
         {
             Application.Quit();
+        }
+        public static void PauseGame()
+        {
+            if (gameIsPaused)
+            {
+                Time.timeScale = 0;
+                AudioListener.pause = true;
+            }
+            else
+            {
+                Time.timeScale = 1;
+                AudioListener.pause = false;
+            }
         }
     }
 }
