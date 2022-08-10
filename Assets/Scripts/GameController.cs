@@ -32,6 +32,7 @@ public class GameController : MonoBehaviour
 
     private void Start()
     {
+        GameSettings.ChangeVolume(GameSettings.generalVolume);
         audioSource.PlayOneShot(ambientClip);
 
         reMatchBut.onClick.AddListener(() => GameSettings.ChangeScene(1));

@@ -24,7 +24,11 @@ public class MenuManager : MonoBehaviour
     {
         resolutions = Screen.resolutions;
         startButton.onClick.AddListener(() => GameSettings.ChangeScene(1));
-        volSlider.onValueChanged.AddListener(GameSettings.ChangeVolume);
+        volSlider.onValueChanged.AddListener(delegate
+        {
+            GameSettings.ChangeVolume(volSlider.value);
+            GameSettings.generalVolume = volSlider.value;
+        });
         resDrop.onValueChanged.AddListener(GameSettings.ChangeResolution);
         exitButton.onClick.AddListener(GameSettings.CloseGame);
     }
